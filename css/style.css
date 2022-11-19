@@ -20,7 +20,13 @@ margin: 0px;
     font-size: 20px;
 }
 /*fin del menu*/
-
+.foto-equipo{
+    height: 750px;
+    width: 1340px;
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;    
+}
 /*inicio del footer*/
 .direccion{
     color: white;
